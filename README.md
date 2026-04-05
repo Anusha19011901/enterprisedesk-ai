@@ -9,7 +9,7 @@ An agentic IT helpdesk system built on **ServiceNow PDI**, powered by **Claude A
 ## Demo
 
 ### Slack Notification — End-to-End Working
-![Slack Notification](screenshots/slack_notif)
+![Slack Notification](screenshots/slack_notif.png)
 
 ### ServiceNow Incidents Auto-Created
 ![Incidents List](screenshots/10_incidents_auto_created.png)
